@@ -1,0 +1,17 @@
+base\TestBase.class
+pages\SearchResultPage.class
+util\Constants.class
+util\Parser.class
+pages\Header.class
+pages\ProductPage.class
+api\Request.class
+util\Waits.class
+util\WebElementActions.class
+api\RequestHelper.class
+api\ResponseParser.class
+entities\Promotion.class
+api\StatusCodeResponseHandler.class
+api\Verifier.class
+entities\Product.class
+util\Logging.class
+entities\SlideResponse.class
